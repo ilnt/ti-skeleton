@@ -9,4 +9,4 @@ Titanium mobile で簡易的なアプリを作る際の骨組みです。
 * Window の一元管理
 
 ## License
-BSD license
+The MIT License
